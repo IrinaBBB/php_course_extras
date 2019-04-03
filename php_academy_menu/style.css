@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  background: url('img/binding-light.png') #6a11cb;
+  height: 100vh;
+  font-size: 18px;
+}
+
+main {
+  width: 75%;
+  background-color: #eeeeee;
+  box-shadow: 0 3px 15px grey;
+  margin: 5% auto;
+  padding: 2%;
+}
+
+a.nav-link {
+  color: #444444 !important;
+}
+
+header {
+  padding: 0 3%;
+  border-bottom: 1px solid #6a11cb;
+}
+
+footer {
+  padding: 0 3%;
+  border-top: 1px solid #6a11cb;
+
+
+}
+
+.content {
+  padding: 1%;
+  color: #444444;
+
+}
+.content-main {
+  display: flex;
+  justify-content: space-around;
+}
+
+h1 {
+  text-align: center;
+}
+
+.right {
+  margin-top: 4%;
+}
+
+.code {
+  text-align: center;
+}
+

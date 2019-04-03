@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background: url('img/binding-light.png') #6a11cb;
+  height: 100vh;
+  font-size: 25px;
+  text-align: center;
+  color: #444444;
+}
+
+main {
+  width: 75%;
+  background-color: #eeeeee;
+  box-shadow: 1px 3px 15px #444444;
+  margin: 5% auto;
+  padding: 2%;
+}
+
+main h1 {
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.elephant {
+  margin: 30px auto;
+}
+
